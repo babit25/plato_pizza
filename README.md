@@ -37,13 +37,33 @@ under, and its list of ingredients
 ![pizza_types dataset](https://github.com/babit25/plato_pizza/assets/108529070/62c46e56-94e0-400a-85c7-a84fbc6ef74e)
 
 # Data Cleaning and Transformation
+The data collected was relatively clean and just a few adjustment was made.
+
+• The first row was promoted as Header for the pizza_types table.
+
+• I left-joined the order_details table to the pizza table to add the price of each pizza to the order_details table. I also created a column that calculated the amount for each order.
+
+![custom column](https://github.com/babit25/plato_pizza/assets/108529070/5b2ec2b5-dcec-4d0b-b3e1-8603496c6f59)
+
+•The Quarter, Month, and Day were extracted from the date column in the order table. The start of the hour was also extracted from the time column and am/pm was added to represent the Hours.
+
+• Measures was created to calculate the Average order value, distinct count of; orders, category, ingredients, and pizza_type
 
 
 # Preliminary Analysis
 
+![pizza_types](https://github.com/babit25/plato_pizza/assets/108529070/57c061a9-bafe-4d1e-9a7b-8bc2685f2797)
+
+
+![Number of orders](https://github.com/babit25/plato_pizza/assets/108529070/a5405e05-5706-4603-ae80-811f7b2cc86e)
+
+
+21350 orders were placed in the year. The restaurant has 32 different types of pizza of 4 different categories made from 32 different ingredients.
+
+
 
 # Analysis
-**A. • What days and times do we tend to be busiest?**
+**A.  What days and times do we tend to be busiest?**
 ![orders_by_day](https://github.com/babit25/plato_pizza/assets/108529070/9196d022-f05d-46b6-a218-8bc6ea724907)
 
 
@@ -86,8 +106,18 @@ July accounted for 8.95% of Revenue. May and March had the 2nd and 3rd  highest 
 ![revenue_by_quarter](https://github.com/babit25/plato_pizza/assets/108529070/2fa80e84-e8f4-4b83-95a1-287350ce3fef)
 
 The Revenue was evenly distributed across the quarters with the 2nd quarter having sales of $ 359,610.40, the 3rd quarter with $ 357,418.25, the 1st quarter with $ 356,633.40, and the 4th quarter having sales of $343,514.95 respectively.﻿﻿
-﻿﻿
+
+# Dashboard
+I created a dashboard to show important findings with a slicer to filter by a category
+
+![Dashboard](https://github.com/babit25/plato_pizza/assets/108529070/02b1be4b-10f8-4083-95fc-2cb80366357e)
+
 ﻿﻿# Insights
+  1. The busiest period is between 12 pm - 1 pm which is the period most workers go on lunch break. there is also a high order from customers during the work close period of 5 pm -6 pm.
+  2.
+  3.
+  4.
+  
 # Recommendation
 # Conclusion
 
