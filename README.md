@@ -112,12 +112,12 @@ I created a dashboard to show important findings with a slicer to filter by a ca
 
 ![Dashboard](https://github.com/babit25/plato_pizza/assets/108529070/02b1be4b-10f8-4083-95fc-2cb80366357e)
 
-﻿﻿# Insights
+# Insights
   1. The busiest period is between 12 pm - 1 pm which is the period most workers go on lunch break. there is also a high order from customers during the work close period of 5 pm -6 pm.
   2.
   3.
   4.
-  
+
 # Recommendation
 # Conclusion
 
