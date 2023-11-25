@@ -66,6 +66,36 @@ _The busiest period is 12 pm on Fridays_
 with 7359 ordered pizza, The Classic Deluxe Pizza is the best and was 1,401 % higher than The Brie Carre Pizza, which is the worst-selling pizza with 490 quantity ordered.
 The Classic Deluxe Pizza had the highest quantity ordered at 7359, followed by The Big Meat Pizza and The Four Cheese Pizza with 5742 and 5706 respectively. The Brie Carre Pizza had the lowest  quantity ordered at 490.
 
+**C. What's our average order value?**
+
+![average_order_value](https://github.com/babit25/plato_pizza/assets/108529070/1dd78580-f70e-494c-aef8-840531b7cb8c)
+
+The Average Order Value is $ 66.38.
+
+D.  How much money did we make this year? Can we identify any 
+seasonality in the sales?
+
+![Total Revenue](https://github.com/babit25/plato_pizza/assets/108529070/a29825ec-2441-48f7-a848-ffd39af51c74)
+
+The Total Revenue is $ 1.42m Dollars.
+![revenue_by_month](https://github.com/babit25/plato_pizza/assets/108529070/18162182-4249-43d4-9bc7-30620e24cbc1)
+
+At $126,778.75, July had the highest Revenue by Month and was 14.59% higher than October, which had the lowest Revenue at $110,634.5499999999.
+July accounted for 8.95% of Revenue. May and March had the 2nd and 3rd  highest revenue with $ 124,225.9 and $ 122,675 respectively.
+
+![revenue_by_quarter](https://github.com/babit25/plato_pizza/assets/108529070/2fa80e84-e8f4-4b83-95a1-287350ce3fef)
+
+The Revenue was evenly distributed across the quarters with the 2nd quarter having sales of $ 359,610.40, the 3rd quarter with $ 357,418.25, the 1st quarter with $ 356,633.40, and the 4th quarter having sales of $343,514.95 respectively.﻿﻿
+﻿﻿
+﻿﻿# Insights
+# Recommendation
+# Conclusion
+
+
+
+
+
+
 
 
 
