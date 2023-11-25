@@ -47,7 +47,7 @@ The data collected was relatively clean and just a few adjustment was made.
 
 •The Quarter, Month, and Day were extracted from the date column in the order table. The start of the hour was also extracted from the time column and am/pm was added to represent the Hours.
 
-• Measures was created to calculate the Average order value, distinct count of; orders, category, ingredients, and pizza_type
+• Measures were created to calculate the **Average order value, distinct count of; orders, category, ingredients, and pizza_type**
 
 
 # Preliminary Analysis
@@ -114,12 +114,19 @@ I created a dashboard to show important findings with a slicer to filter by a ca
 
 # Insights
   1. The busiest period is between 12 pm - 1 pm which is the period most workers go on lunch break. there is also a high order from customers during the work close period of 5 pm -6 pm.
-  2.
-  3.
-  4.
+  2. The Classic Deluxe Pizza is the best-selling Pizza
+  3. The sales for each month were consistent with little difference in Revenue.
+    
 
 # Recommendation
+1. Plato Pizza should  make sure there are adequate staff to handle orders between lunch break(12 pm and 1 pm) and time to close (5 pm to 6 pm).
+2. They should also try  to increase sales through various specials and other advertising during the less popular days.
+3. The Ingredients for the Classic Deluxe should always be available.
+    
 # Conclusion
+Plato Pizza is doing well at the moment but there is room for improvement.
+
+**THANK YOU**
 
 
 
